@@ -1,0 +1,133 @@
+<!doctype html>
+  <html lang="en";>
+    <head>
+      <title>MO GAME UP</title>
+      <style>
+
+
+      </style>
+      <style >
+      .moaz{
+       width: 65%
+      }
+      #game{
+        color:red
+      }
+      #g2{
+        color:blue
+      }
+      body{
+        color: white;
+
+        background-image: url(download.jpg); background-size: cover;
+
+
+        font-size: 200%
+      }
+      button{
+        color: red
+      }
+       .moaz{
+         border: 7px solid yellow;
+         margin: 0.2em;
+         padding: 0.6em;
+         width: 27em;
+         height: 7.0em;
+       }
+       .moaz1{
+         border: 7px solid yellow;
+         margin: 0.1em;
+         padding: 0.8em;
+         width: 27em;
+         height: 10em;
+
+       }
+       #mo{
+         border: 4px solid black;
+         margin: 1em;
+         padding: 1em;
+         width:12em;
+         height:7.4em
+       }
+       #mo2{
+         border:4px solid black;
+         margin: 1em;
+         padding: 1em;
+         width: 12em;
+         height:13em;
+         float: right;
+       }
+
+      </style>
+
+
+    </head>
+    <body>
+      <p class="me"> <!--creat comment-->
+        <ol>
+          <h1 >big famous games</h1>
+            <img src="" alt="">
+          <li><h2 id="game">PUBG <br>  <img id="img" src="unnamed.png" alt="pubg icon" width="200em"></img><br>
+            <a id="a" href="https://www.pubgmobile.com/en-US/" target="_blank" ><button type="button" name="clic to down">click to down</button></a>
+           </h2><br>
+            <p class="moaz"><em>This game is one of
+             the most famous and<strong <div id="game"></div>  best games in the world</strong>,<br>
+               if not the most famous, because it is one of the most
+                powerful <strong>Battle Royale games</strong>,<br>
+                and it is the<strong> favorite mode</strong> of all gamers and
+                 because it contains great graphics and great capabilities<br>
+                 that have met with terrible popularity...</em></p>
+          <li><h2 id="g2">fortnite <br> <img src="fortnite.jpg" alt="fprtnite icon" width="200em" ></img></h2><br>
+            <p class="moaz1">In the recent period, Fortnite was one of the most popular battle royale games<br>
+               because it contains many surprises,
+                and also because it contains graphics
+                 on it and wonderful weapons<br>
+                and the only difference
+                between it and PUBG is that it is not realistic<br>
+                 but it simulates the anime and also the game did
+                 not get enough fame because it is
+                  somewhat difficult, so the strong gamers go
+                  to it Or those who master the world of games <br>
+                  <a href="https://www.epicgames.com/fortnite/en-US/home" target="_blank"> <button>download here</button></a>
+                </p>
+      </p>
+
+      <img src="" alt="">
+      <p>
+        <ul><h3>more games</h3>
+          <li id="mo">assasen's cread
+            <ol>
+              <li>part1</li>
+              <li>part2</li>
+              <li>part3</li>
+              <li>valhala</li>
+              <li>odesy</li></ol>
+            <ul><li>and more</li>
+          </ul>
+          <li id="mo2">call of duty(cod)
+            <ol>
+              <li>black ops</li>
+                <ul>
+                  <li>part 1</li>
+                  <li>part 2</li>
+                  <li>part 3</li>
+                  <li>part 4</li>
+                </ul>
+              <li >modern warfare</li>
+                <ul>
+                  <li>part 1</li>
+                  <li>part 2</li>
+                  <li>part 3</li>
+                  <li>part 4</li>
+              <li>warzone</li>
+              </ol>
+
+
+          </li>
+        </ul>
+
+
+
+
+    </body>
+  </html>
